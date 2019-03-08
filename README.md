@@ -1,5 +1,5 @@
 # ALIL
-Code for ACL2018 paper  "Learn How to Actively Learn: An Imitation Learning Approach"
+Code for ACL2018 paper  "Learning How to Actively Learn: A Deep Imitation Learning Approach"
 
 This is the code for the experiment of text classification, the Active Learning (AL) policy is trained with "ALIL-simulation.py" on the source domain/language and transfered to the target domain with "ALIL-transfer.py".
 
